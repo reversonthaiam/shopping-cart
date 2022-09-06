@@ -9,9 +9,9 @@ function App() {
 
   useEffect(() => {
     api
-      .get('http://localhost:3000/api/transactions')
+      .get('/db')
       .then((response) => setData(response.data.transactions[0]))
-      .finally(e => setLoading(false))
+      .finally((e) => setLoading(false))
   }, [])
 
   return (
