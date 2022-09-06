@@ -112,6 +112,61 @@
           "measurementUnit": "un",
           "unitMultiplier": 1,
           "manufacturerCode": null
+        },
+        {
+          "uniqueId": "33DEE4CA67A14A4D914C6FFCE698281F",
+          "id": "16701612",
+          "productId": "314",
+          "productRefId": null,
+          "refId": null,
+          "ean": "0123456789123",
+          "name": "TRUFA MORANGO",
+          "skuName": "TRUFA MORANGO",
+          "modalType": null,
+          "parentItemIndex": null,
+          "parentAssemblyBinding": null,
+          "assemblies": [],
+          "priceValidUntil": "2020-12-01T02:30:00Z",
+          "tax": 0,
+          "price": 123,
+          "listPrice": 123,
+          "manualPrice": null,
+          "sellingPrice": 111,
+          "rewardValue": 0,
+          "isGift": false,
+          "additionalInfo": {
+            "brandName": "Codeby",
+            "brandId": "2000004",
+            "offeringInfo": null,
+            "offeringType": null,
+            "offeringTypeId": null
+          },
+          "preSaleDate": null,
+          "productCategoryIds": "/29/",
+          "productCategories": { "29": "trufas" },
+          "quantity": 1,
+          "seller": "1",
+          "sellerChain": ["1"],
+          "imageUrl": "http://codeby.vteximg.com.br/arquivos/ids/159939-800-1029/trufa-morango-30g.png?v=636916431597070000",
+          "detailUrl": "/trufa-morango/p",
+          "components": [],
+          "bundleItems": [],
+          "attachments": [],
+          "attachmentOfferings": [],
+          "offerings": [],
+          "priceTags": [
+            {
+              "name": "discount@price-6f7f6403-f49b-4e24-936e-bbdba265e959#42b7009d-54a4-4c66-abae-1446b085c5c1",
+              "value": -12,
+              "rawValue": -0.12,
+              "isPercentual": false,
+              "identifier": "6f7f6403-f49b-4e24-936e-bbdba265e959"
+            }
+          ],
+          "availability": "available",
+          "measurementUnit": "un",
+          "unitMultiplier": 1,
+          "manufacturerCode": null
         }
       ],
       "totalizers": [
