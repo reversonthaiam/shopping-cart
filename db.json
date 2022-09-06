@@ -220,61 +220,6 @@
       "measurementUnit": "un",
       "unitMultiplier": 1,
       "manufacturerCode": null
-    },
-    {
-      "uniqueId": "73C3840DFE124A778B3A1F7826D58172",
-      "id": "16701609",
-      "productId": "311",
-      "productRefId": null,
-      "refId": null,
-      "ean": "223311",
-      "name": "TRUFA BRANCO 30G",
-      "skuName": "30G",
-      "modalType": null,
-      "parentItemIndex": null,
-      "parentAssemblyBinding": null,
-      "assemblies": [],
-      "priceValidUntil": "2020-12-01T02:30:00Z",
-      "tax": 0,
-      "price": 110,
-      "listPrice": 110,
-      "manualPrice": null,
-      "sellingPrice": 99,
-      "rewardValue": 0,
-      "isGift": false,
-      "additionalInfo": {
-        "brandName": "Codeby",
-        "brandId": "2000004",
-        "offeringInfo": null,
-        "offeringType": null,
-        "offeringTypeId": null
-      },
-      "preSaleDate": null,
-      "productCategoryIds": "/29/",
-      "productCategories": { "29": "trufas" },
-      "quantity": 1,
-      "seller": "1",
-      "sellerChain": ["1"],
-      "imageUrl": "http://codeby.vteximg.com.br/arquivos/ids/159993-800-1029/trufa-branco.png?v=636945743710500000",
-      "detailUrl": "/trufa-lacreme-branco/p",
-      "components": [],
-      "bundleItems": [],
-      "attachments": [],
-      "attachmentOfferings": [],
-      "offerings": [],
-      "priceTags": [
-        {
-          "name": "discount@price-6f7f6403-f49b-4e24-936e-bbdba265e959#42b7009d-54a4-4c66-abae-1446b085c5c1",
-          "value": -11,
-          "rawValue": -0.11,
-          "isPercentual": false,
-          "identifier": "6f7f6403-f49b-4e24-936e-bbdba265e959"
-        }
-      ],
-      "availability": "available",
-      "measurementUnit": "un",
-      "unitMultiplier": 1,
-      "manufacturerCode": null
     }
   ],
   "totalizers": [
